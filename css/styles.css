@@ -134,7 +134,13 @@ hr{
 
 .contact-me{
   width: 50%;
+  line-height: 2;
   margin: 0 auto;
+}
+
+.touch{
+  margin: 44px auto;
+  width: 50%;
 }
 
 .btn {
