@@ -1,2 +1,2 @@
 # MY-Site
-It is my first web poject.
+It is my first web project.
