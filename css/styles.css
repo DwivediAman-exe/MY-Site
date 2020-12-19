@@ -51,13 +51,13 @@ hr{
 
 .top-cloud{
     position: absolute;
-    right: 250px;
+    right: 180px;
     top: 60px;
 }
 
 .bottom-cloud{
   position: absolute;
-  left: 200px;
+  left: 100px;
   bottom: 200px;
 }
 
@@ -88,6 +88,7 @@ hr{
   width: 30%;
   float: right;
   margin-left: 25px;
+  object-fit: contain;
 }
 
 .skill-row1{
@@ -101,6 +102,7 @@ hr{
   width: 30%;
   float: left;
   margin-right: 25px;
+  object-fit: contain;
 }
 
 .skill-row2{
@@ -114,6 +116,7 @@ hr{
   width: 30%;
   float: right;
   margin-left: 25px;
+  object-fit: contain;
 }
 
 .top{
@@ -130,6 +133,10 @@ hr{
 .bottom{
   padding: 15px 4px 5px 4px;
   background-color: #f1d4d4;
+}
+
+.contact-img{
+  object-fit: contain;
 }
 
 .contact-me{
